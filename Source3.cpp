@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstring>
-#include "Source.h"
+
 using namespace std;
 const int SIZE = 100;
 
